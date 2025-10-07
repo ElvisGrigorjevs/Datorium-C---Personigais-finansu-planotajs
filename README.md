@@ -1,3 +1,3 @@
-Links uz kodu ir .txt failā
-Pievienoju arī šeit:
+Darbs ir main.cs
+Linku pievienoju arī šeit:
 https://dotnetfiddle.net/jRnQqh
